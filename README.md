@@ -19,5 +19,5 @@ I'm a Computer Science student and Full-Stack Developer Intern interested in bui
 
 ## Connect with me
 
-- LinkedIn: [Add your LinkedIn URL]
-- Email: [Add your professional email]
+- LinkedIn: https://www.linkedin.com/in/belle-lastimosa
+- Email: barmosabelle@gmail.com
