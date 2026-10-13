@@ -16,7 +16,18 @@ I combine thoughtful design with clean code to create intuitive web and mobile e
 
 </div>
 
-<div align="justify">
+<div align="center">
+
+Computer Science student based in Cebu, Philippines •
+Currently working as a Full-<br>Stack Developer • 
+Passionate about transforming thoughtful designs into functional<br> products •
+Exploring mobile development with React Native and Expo •
+Focused on<br> building experiences that are both useful and visually engaging •
+Always learning,<br> designing, and bringing new ideas to life through code
+
+</div>
+
+<!-- <div align="justify">
 
 Computer Science student based in Cebu, Philippines •
 Currently working as a Full-Stack Developer •
@@ -25,7 +36,7 @@ Exploring mobile development with React Native and Expo •
 Focused on building experiences that are both useful and visually engaging •
 Always learning, designing, and bringing new ideas to life through code
 
-</div>
+</div> -->
 
 <div align="center">
 
