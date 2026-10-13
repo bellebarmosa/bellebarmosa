@@ -2,7 +2,7 @@
 
 # Hey, I'm Belle 👋
 
-### Full-Stack Developer Intern · Computer Science Student
+### Full-Stack Developer · Computer Science Student
 
 I enjoy turning ideas into clean, practical web and mobile experiences.
 
