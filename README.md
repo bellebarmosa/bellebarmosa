@@ -47,19 +47,6 @@ I enjoy turning ideas into clean, practical web and mobile experiences.
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
-## 🚀 What I'm Working On
-
-- Building my React Native and Expo skills
-- Exploring secure backend development with Supabase
-- Improving my TypeScript and database knowledge
-- Learning production development and collaborative Git workflows
-
-## 📊 GitHub Activity
-
-![Belle's GitHub stats](https://github-readme-stats.vercel.app/api?username=bellebarmosa&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bellebarmosa&layout=compact&theme=tokyonight&hide_border=true)
-
 ---
 
 <div align="center">
