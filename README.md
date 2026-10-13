@@ -54,24 +54,6 @@ I enjoy turning ideas into clean, practical web and mobile experiences.
 - Improving my TypeScript and database knowledge
 - Learning production development and collaborative Git workflows
 
-## 📌 Featured Projects
-
-### 📱 Project Name
-
-A short explanation of the project and the problem it solves.
-
-**Built with:** React Native · Expo · TypeScript · Supabase
-
-[View repository →](YOUR_REPOSITORY_URL)
-
-### 💻 Project Name
-
-A short explanation of your second project.
-
-**Built with:** React · Node.js · PostgreSQL
-
-[View repository →](YOUR_REPOSITORY_URL)
-
 ## 📊 GitHub Activity
 
 ![Belle's GitHub stats](https://github-readme-stats.vercel.app/api?username=bellebarmosa&show_icons=true&theme=tokyonight&hide_border=true)
