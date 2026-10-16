@@ -16,7 +16,7 @@ I combine thoughtful design with clean code to create intuitive web and mobile e
 
 </div>
 
-<div align="center">
+<!-- <div align="center">
 
 Computer Science student based in Cebu, Philippines •
 Currently working as a Full-<br>Stack Developer • 
@@ -25,18 +25,29 @@ Exploring mobile development with React Native and Expo •
 Focused on<br> building experiences that are both useful and visually engaging •
 Always learning,<br> designing, and bringing new ideas to life through code
 
-</div>
+</div> -->
 
 <!-- <div align="justify">
 
-Computer Science student based in Cebu, Philippines •
-Currently working as a Full-Stack Developer •
+Computer Science student based in Cebu, Philippines • 
+Currently working as a Full-Stack Developer Intern •
 Passionate about transforming thoughtful designs into functional products •
 Exploring mobile development with React Native and Expo •
 Focused on building experiences that are both useful and visually engaging •
 Always learning, designing, and bringing new ideas to life through code
 
 </div> -->
+
+<div align="center">
+
+• Computer Science student based in USC Cebu, Philippines <br>
+• Currently working as a Full-Stack Developer Intern @ Romega <br>
+• Usually playing Valorant, Minecraft, and other games in my free time <br>
+• I Enjoy turning creative designs, thoughtful ideas into functional products <br>
+• Currently exploring and building more about Full Stack Web and Mobile Development <br>
+• Always learning, developing, designing, deploying and bringing new ideas to life through code
+
+</div>
 
 <div align="center">
 
